@@ -1,3 +1,6 @@
+\\NEED TO UPDATE THIS README 
+
+
 # Solana Setup Tool
 Solana Setup is a command-line tool designed to streamline the developer experience on the Solana blockchain. It simplifies the processes of installing, updating, and configuring your development environment, and even creating a new project with a single command.
 
