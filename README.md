@@ -61,10 +61,10 @@ To update the Solana Setup tool itself, use the following command:
 `npm update -g solana-setup`
 
 ### Contributing
-If you're interested in contributing to Solana Setup, please feel free to submit a pull request on the GitHub repository [here](https://github.com/DegenMunsy/solana-setup).
+If you're interested in contributing to Solana Setup, please feel free to submit a pull request on the Web 3 Builders Alliance GitHub repository. 
 
 ### Requests
-Want to see more packages or functions added to the tool? Contact @cashmunsy on twitter and let him know what you want to see solana-setup add next.
+Want to see more packages or functions added to the tool? Contact @comebuidlwithus on twitter and let us know what you want to see solana-setup add next.
 
 License
 Solana Setup is licensed under the ISC license.
